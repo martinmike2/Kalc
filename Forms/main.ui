@@ -44,7 +44,7 @@
        </widget>
       </item>
       <item>
-       <widget class="QLineEdit" name="lineEdit"/>
+       <widget class="QLineEdit" name="txtConnName"/>
       </item>
       <item>
        <widget class="QLabel" name="label_2">
@@ -54,7 +54,7 @@
        </widget>
       </item>
       <item>
-       <widget class="QLineEdit" name="lineEdit_2"/>
+       <widget class="QLineEdit" name="txtConnHost"/>
       </item>
       <item>
        <widget class="QLabel" name="label_3">
@@ -64,7 +64,7 @@
        </widget>
       </item>
       <item>
-       <widget class="QLineEdit" name="lineEdit_3"/>
+       <widget class="QLineEdit" name="txtConnRpc"/>
       </item>
       <item>
        <widget class="QLabel" name="label_4">
@@ -74,10 +74,10 @@
        </widget>
       </item>
       <item>
-       <widget class="QLineEdit" name="lineEdit_4"/>
+       <widget class="QLineEdit" name="txtConnStream"/>
       </item>
       <item>
-       <widget class="QPushButton" name="pushButton">
+       <widget class="QPushButton" name="btnKrpcConnect">
         <property name="text">
          <string>Connect</string>
         </property>
